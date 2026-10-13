@@ -1,6 +1,6 @@
 {
   "title": "Joe's Hub",
-  "updated": "2026-10-11",
+  "updated": "2026-10-13",
   "apps": [
     {
       "name": "Joe's Recipe Box",
@@ -15,7 +15,7 @@
       "bot": "Financial Planner",
       "emoji": "💰",
       "description": "Interactive budget and spending explorer. Saved as a private file in your Google Drive (sign-in required); Drive may show it as a file rather than a working app on iPhone.",
-      "url": "https://drive.google.com/file/d/1ly6Op-1lTHOHsQdPS_4XRCOYiYsytki1/view?usp=drivesdk",
+      "url": "https://drive.google.com/file/d/1l4Uvl_tjuxggjvlX0xOMTHeS8Zu09Z5g/view?usp=drivesdk",
       "phone_ready": false
     }
   ]
