@@ -1,6 +1,6 @@
 {
   "title": "Joe's Hub",
-  "updated": "2026-10-13",
+  "updated": "2026-10-19",
   "apps": [
     {
       "name": "Joe's Recipe Box",
@@ -17,6 +17,14 @@
       "description": "Interactive budget and spending explorer. Saved as a private file in your Google Drive (sign-in required); Drive may show it as a file rather than a working app on iPhone.",
       "url": "https://drive.google.com/file/d/1l4Uvl_tjuxggjvlX0xOMTHeS8Zu09Z5g/view?usp=drivesdk",
       "phone_ready": false
+    },
+    {
+      "name": "SoPi Sprint #7 Player Hub",
+      "bot": "Golf trips",
+      "emoji": "⛳",
+      "description": "Player hub for the SoPi Sprint #7 golf trip: schedule, players, and Ryder Cup-style details.",
+      "url": "https://jkontak2.github.io/sopi-sprint-7-0y9pqg/",
+      "phone_ready": true
     }
   ]
 }
